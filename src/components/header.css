@@ -1,0 +1,29 @@
+.app-bar{
+    background-color: black !important;
+  
+}
+
+.logo{
+    width:150px;
+    height: 90px;
+    margin-right: 90px;
+    margin-left: 30px;
+}
+
+.search{
+    height: 40px;
+    width:45rem;
+    margin: 20px;
+}
+
+.btn-list{
+    display: flex;
+    gap:1rem;
+    border:1px solid transparent;
+    
+}
+a{
+    color: white;
+        font-size: 15px;
+        text-decoration: none;
+}
